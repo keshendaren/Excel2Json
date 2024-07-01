@@ -1,0 +1,20 @@
+[
+  {
+    "cid": 1,
+    "name": "GM面板",
+    "subTitle": "无",
+    "uiName": "",
+    "pageName": "",
+    "isShowEntry": 1,
+    "lvLimit": 1
+  },
+  {
+    "cid": 2,
+    "name": "城镇主UI",
+    "subTitle": "无",
+    "uiName": "",
+    "pageName": "",
+    "isShowEntry": 1,
+    "lvLimit": 1
+  }
+]

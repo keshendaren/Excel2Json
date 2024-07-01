@@ -1,0 +1,34 @@
+[
+  {
+    "cid": 1,
+    "key": "test",
+    "val": 1,
+    "valAry": [
+      1,
+      2,
+      3
+    ],
+    "strVal": "哇哈哈哈"
+  },
+  {
+    "cid": 2,
+    "key": "XiulianRudingSpace",
+    "val": 3,
+    "valAry": [],
+    "strVal": ""
+  },
+  {
+    "cid": 3,
+    "key": "XiulianTickSpace",
+    "val": 7,
+    "valAry": [],
+    "strVal": ""
+  },
+  {
+    "cid": 4,
+    "key": "test2",
+    "val": 0,
+    "valAry": [],
+    "strVal": "asdf士大夫"
+  }
+]

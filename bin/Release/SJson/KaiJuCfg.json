@@ -1,0 +1,66 @@
+[
+  {
+    "cid": 1,
+    "name": "觉醒血脉",
+    "mainTasksCid": 1000,
+    "storyCid": 1000,
+    "guideCid": 1000,
+    "rewards": []
+  },
+  {
+    "cid": 2,
+    "name": "特殊体质",
+    "mainTasksCid": 2000,
+    "storyCid": 2000,
+    "guideCid": 2000,
+    "rewards": []
+  },
+  {
+    "cid": 3,
+    "name": "灵宝一件",
+    "mainTasksCid": 3000,
+    "storyCid": 3000,
+    "guideCid": 3000,
+    "rewards": []
+  },
+  {
+    "cid": 4,
+    "name": "仙门介绍信",
+    "mainTasksCid": 4000,
+    "storyCid": 4000,
+    "guideCid": 4000,
+    "rewards": []
+  },
+  {
+    "cid": 5,
+    "name": "功法一套",
+    "mainTasksCid": 5000,
+    "storyCid": 5000,
+    "guideCid": 5000,
+    "rewards": []
+  },
+  {
+    "cid": 6,
+    "name": "额外金钱",
+    "mainTasksCid": 6000,
+    "storyCid": 6000,
+    "guideCid": 6000,
+    "rewards": []
+  },
+  {
+    "cid": 7,
+    "name": "掌门令牌",
+    "mainTasksCid": 7000,
+    "storyCid": 7000,
+    "guideCid": 7000,
+    "rewards": []
+  },
+  {
+    "cid": 8,
+    "name": "我不需要",
+    "mainTasksCid": 8000,
+    "storyCid": 8000,
+    "guideCid": 8000,
+    "rewards": []
+  }
+]

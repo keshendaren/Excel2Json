@@ -1,0 +1,38 @@
+[
+  {
+    "cid": 1,
+    "key": "test",
+    "val": 1,
+    "valAry": [
+      1,
+      2,
+      3
+    ],
+    "strVal": "哇哈哈哈",
+    "desc": "测试用的"
+  },
+  {
+    "cid": 2,
+    "key": "XiulianRudingSpace",
+    "val": 3,
+    "valAry": [],
+    "strVal": "",
+    "desc": "开始修炼后几秒入定"
+  },
+  {
+    "cid": 3,
+    "key": "XiulianTickSpace",
+    "val": 7,
+    "valAry": [],
+    "strVal": "",
+    "desc": "入定后产生灵气间隔"
+  },
+  {
+    "cid": 4,
+    "key": "test2",
+    "val": 0,
+    "valAry": [],
+    "strVal": "asdf士大夫",
+    "desc": "测试2"
+  }
+]
